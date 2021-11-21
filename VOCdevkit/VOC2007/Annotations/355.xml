@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize</folder>
+	<filename>355.jpg</filename>
+	<path>D:\faster-rcnn-keras-master\VOCdevkit\VOC2007\resize\355.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>4</ymin>
+			<xmax>199</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGimages</folder>
+	<filename>048.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\image\JPEGimages\048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>117</ymin>
+			<xmax>475</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

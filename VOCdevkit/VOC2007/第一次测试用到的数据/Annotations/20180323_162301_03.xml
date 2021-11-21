@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>20180323_162301_03.jpg</filename>
+	<path>D:\Inter+\photo\20180323_162301_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>368</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>10</ymin>
+			<xmax>250</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>
